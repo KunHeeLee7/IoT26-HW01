@@ -1,5 +1,21 @@
 # IoT26-HW01
 
+### **Objective**
+* Learn how to set the Raspberry Pi GPIOs as digital outputs.
+* Control an LED connected to one of the Raspberry Pi GPIOs using the `gpiozero` interface.
+
+### **Tasks Performed**
+* **Environment Setup**: Configured Raspberry Pi OS, set up Wi-Fi, and enabled SSH for remote access.
+* **Hardware Wiring**: Connected an LED to the Raspberry Pi GPIO pins according to the tutorial instructions.
+* **Programming**: Developed a Python script to control digital outputs using the `gpiozero` library.
+
+### **Development Environment**
+* **Device**: Raspberry Pi
+* **Language**: Python
+* **Library**: `gpiozero`
+* **Tools**: SSH, Visual Studio Code (VS Code)
+
+
 https://github.com/user-attachments/assets/198b482e-ee2b-4e14-b89f-157d20f11be2
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
