@@ -15,6 +15,7 @@
 * **Library**: `gpiozero`
 * **Tools**: SSH, Visual Studio Code (VS Code)
 
+---
 
 https://github.com/user-attachments/assets/198b482e-ee2b-4e14-b89f-157d20f11be2
 
